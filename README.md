@@ -140,10 +140,11 @@ No formato Tipo – J, as instruções são divididas em vários campos, como mo
 | imm20,10:1,11,19:12  | rd |  op |
 | 20 bits  | 5 bits |  7 bits |
 
-## 📁 Estrutura do repositório
+## 🎥 Vídeo de apresentação
 
-O repositório está organizado da seguinte forma:
+Os vídeos explicando as novas funcionalidades, descrevendo o código e realizando uma demonstração de funcionamento está no link:
 
+https://drive.google.com/drive/folders/1tTVdce4uu9N1Qek_9o99Y4gBwlZJWW89?usp=sharing
 
 
 ## 📚 Recursos
