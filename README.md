@@ -154,11 +154,11 @@ Para iniciar o estudo do conjunto de instruções RISC-V, consulte:
 
 A Sprint 10 é dedicada a um projeto prático, proporcionando uma oportunidade excelente para a aplicação e expanção dos conhecimentos adquiridos em arquitetura de computadores. O documento com os requisitos da Sprint está anexado a esta atividade.
 
-Esta Sprint será dividida em duas fases:
+Esta Sprint foi dividida em duas fases:
 
-Na primeira etapa, foi respondido um questionário anexado no Classroom, e descrito em dois parágrafos o projeto que prentendiamos desenvolver para esta Sprint. No documento anexo, foi encontrado alguns exemplos e dicas que podem ser úteis.
+1) Na primeira etapa, foi respondido um questionário anexado no Classroom, e descrito em dois parágrafos o projeto que prentendiamos desenvolver para esta Sprint. No documento anexo, foi encontrado alguns exemplos e dicas que podem ser úteis.
 
-A segunda etapa é a execução do projeto propriamente dito. Após a aprovação da proposta, foi implementado o projeto e feito um vídeo demonstrando e explicando o trabalho realizado durante a Sprint para que o professor possa avaliar.
+2) A segunda etapa é a execução do projeto propriamente dito. Após a aprovação da proposta, foi implementado o projeto e feito um vídeo demonstrando e explicando o trabalho realizado durante a Sprint para que o professor possa avaliar.
 
 Para o desenvolvimento do projeto, foi utilizado o Quartus. 
 
