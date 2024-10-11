@@ -19,7 +19,7 @@ Uma maneira de expressar cada um dos termos da sequência de Fibonacci é atrav�
 
 Logo, os termos da sequência de Fibonacci são dados de forma recursiva:
 
-                                                 𝐹𝑛 = 𝐹𝑛−1 + 𝐹𝑛−2
+  𝐹𝑛 = 𝐹𝑛−1 + 𝐹𝑛−2
 
 A fórmula da sequência de Fibonacci é a forma algébrica de dizer que um termo qualquer na sequência é a soma dos seus dois anteriores.
 
