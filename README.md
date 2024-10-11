@@ -145,9 +145,12 @@ No formato Tipo – J, as instruções são divididas em vários campos, como mo
 O repositório está organizado da seguinte forma:
 
 
+
 ## 📚 Recursos
 
 Para iniciar o estudo do conjunto de instruções RISC-V, consulte:
+
+HARRIS, S. L.; HARRIS, D. Digital Design and Computer Architecture, RISC-V Edition. 1. ed. [s.l.] Morgan Kaufmann Publishers, 2021. p. 592
 
 
 ## 📍 Descrição da Sprint 10
